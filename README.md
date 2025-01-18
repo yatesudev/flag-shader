@@ -2,6 +2,8 @@
 
 This project uses Babylon.js to render an animated flag with custom shaders. The flag's movement is driven by a sine wave, and the textures can be blended dynamically. Additionally, edge detection via a Sobel filter is applied to enhance the flag's details. The project provides an interactive GUI to adjust several parameters in real-time, such as wave height, wave length, wave speed, and edge detection strength.
 
+![Screenshot 2025-01-18 101121](https://github.com/user-attachments/assets/c19e7854-51a7-4de9-821b-c74bb0b3564f)
+
 ## Features
 
 - **Wave Animation**: Flag is animated with a sine wave and adjustable parameters:
@@ -17,7 +19,7 @@ This project uses Babylon.js to render an animated flag with custom shaders. The
 1. Clone the repository or download the project files:
 
    ```bash
-      git clone <repository_url>
+      git clone https://github.com/yatesudev/flag-shader.git
    ```
 
 2. Ensure you have a local web server to view the files. You can use simple tools like live-server or any other server to serve the project.
